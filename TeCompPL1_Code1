@@ -1,0 +1,4 @@
+This is a file that has SQL Code written for the assignement.
+Contributors are RAD, SAJ, SRP
+
+1> select own_id , avg (rent) from properties group by owner_id;
