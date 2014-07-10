@@ -1,1 +1,3 @@
-GIT allows  groups of people to work on the same document (mostly source code ) at the same time and without stepping on each other's toe.  It is a distributed version control system
+GIT allows  groups of people to work on the same document (mostly source code ) at the same time and without stepping on each other's toe.  It is a distributed version control system.
+
+/* this is an Introductory paragraph for GitHub */
